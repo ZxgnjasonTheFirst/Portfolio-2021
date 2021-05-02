@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Welcome to Zxgnjason's GitHub Page!
 
-You can use the [editor on GitHub](https://github.com/ZxgnjasonTheFirst/Portfolio-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Purpose
+Currently I am enrolled in UCI to pursue Computer Game Science.
+This page will serve as part of my [LinkedIn Portfolio](https://www.linkedin.com/in/jason-pambuena-129122133/), to help me get into –you guessed it– video game development!
+The files presented here showcase the **_best_** of my Computer Science career.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Experience:
+So far I have experience in using C++, C# (Unity), and Python. 
 
-### Markdown
+## What I've Made
+I've made several games, working with PyGame and Unity, a SQL Database (amongst many other Data Structures (like Hash Sort, Bubble Sort, etc)). 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What's shown here?
+The files showcased here consists of my experience with Data Structures, 
+a PyGame Poker game, and the scripts for two collaborated 3D Unity Tank games: 
+[This one](https://zxgnjason.itch.io/tankbattle) and [the other one!](https://zxgnjason.itch.io/tankarena)
 
-```markdown
-Syntax highlighted code block
+## What I'm working on!
+Currently me and my collegues have been assigned to create a visual novel this quarter (Spring 2021).
+I'm also learning about Linear Algebra and its Computer Applications in Graphics.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZxgnjasonTheFirst/Portfolio-2021/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## MORE STUFF!
+A group of collegues and I also created a prototype of a Board Game through the help of TableTop Simulator called _Casino Night Thievin'_, while it doesn't showcase any code, it's definitely [worth looking at](https://steamcommunity.com/sharedfiles/filedetails/?id=2474832863) (and/or worth playing!). 
